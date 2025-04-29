@@ -19,6 +19,7 @@
 * Please visit https://xvc.io/license/ for more information.
 ******************************************************************************/
 
+#include <cstdint>
 #ifndef XVC_COMMON_LIB_CU_TYPES_H_
 #define XVC_COMMON_LIB_CU_TYPES_H_
 
